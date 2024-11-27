@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Because after testing the sorted.txt is constantly got the same time since it was already sorted as a bubble.
+
+sort2 uses: Merge Sort
+
+How do you know?: Because it got the fastest time in the random txt all the time.
+
+sort3 uses: Selection Sort
+
+How do you know?: Because while sorted.txt is kept getting different times and by far the longest.
