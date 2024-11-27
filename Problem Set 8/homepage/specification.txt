@@ -1,0 +1,25 @@
+HTML Tags Used:
+1. <p> - For paragraphs
+2. <img> - To display images
+3. <a> - For hyperlinks
+4. <nav> - For navigation menu
+5. <footer> - For the footer section
+6. <header> - For the header section
+7. <div> - For content containers
+8. <ul> and <li> - For lists
+9. <button> - For interactive buttons
+10. <form> - For contact or signup forms
+
+CSS Properties Used:
+1. font-size - Controls the size of the text.
+2. color - Sets the color of text.
+3. background-color - Sets the background color of elements.
+4. border-radius - Rounds the corners of elements.
+5. padding - Adds spacing inside elements.
+
+Bootstrap Features Used:
+- Bootstrap Navbar for site navigation.
+- Bootstrap Card for a stylized information box.
+
+JavaScript Used:
+- JavaScript function to display an alert when a button is clicked.

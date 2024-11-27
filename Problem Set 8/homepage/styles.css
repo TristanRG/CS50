@@ -1,0 +1,32 @@
+/* styles.css */
+
+/* Header Styling */
+header h1 {
+    font-size: 2.5rem;
+    color: #343a40;
+}
+
+/* Button Styling */
+button.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    color: #6c757d;
+}
+
+/* Image Styling */
+.card img {
+    border-radius: 8px;
+}
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+}
