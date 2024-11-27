@@ -6,7 +6,6 @@ This repository contains the solutions to the problem sets for CS50. Each folder
 
 ## Problem Sets
 
-- [Problem Set 0](./Problem%20Set%200)
 - [Problem Set 1](./Problem%20Set%201)
 - [Problem Set 2](./Problem%20Set%202)
 - [Problem Set 3](./Problem%20Set%203)
