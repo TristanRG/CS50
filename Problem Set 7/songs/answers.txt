@@ -1,0 +1,1 @@
+We could simply start by finding the average of energy, valence and danceability for those 100 songs, and based on those results we can start characterizing the audio auras.
